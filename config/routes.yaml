@@ -1,0 +1,23 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+#
+#category:
+#    path: /category
+#    controller: App\Controller\ProductController::category
+#
+#product:
+#    path: /category/product
+#    controller: App\Controller\ProductController::product
+#
+#signin:
+#    path: /user/signin
+#    controller: App\Controller\UserController::signIn
+#
+#register:
+#    path: /user/register
+#    controller: App\Controller\UserController::register
+#
+#profil:
+#    path: /user/profil
+#    controller: App\Controller\UserController::userProfil
